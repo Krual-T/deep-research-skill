@@ -69,7 +69,7 @@ Mode Selection
 - HTML styling: [mckinsey_report_template.html](./templates/mckinsey_report_template.html)
 
 **References:**
-- Research presentation/deck deliverables: [research-presentation-deliverable.md](./references/research-presentation-deliverable.md)
+- Research presentation/deck deliverables: [research-presentation-deliverable.md](./reference/research-presentation-deliverable.md)
 
 **Scripts:**
 - `python scripts/validate_report.py --report [path]`
